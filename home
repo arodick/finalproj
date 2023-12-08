@@ -1,0 +1,55 @@
+# Introduction
+
+In this section, we'll introduce the essential networking protocols - TCP, UDP, and IP. Understanding these protocols is crucial for effective communication in computer networks.
+
+# TCP - Transmission Control Protocol
+
+## 2.1 Overview
+
+TCP is a reliable, connection-oriented protocol. Learn about its fundamental characteristics and how it ensures data integrity during transmission.
+
+## 2.2 Features
+
+Explore the features that make TCP a reliable choice for applications that require accurate and ordered delivery of data.
+
+## 2.3 Use Cases
+
+Discover real-world scenarios where TCP is the preferred choice and understand its role in various applications.
+
+# UDP - User Datagram Protocol
+
+## 3.1 Overview
+
+UDP is a lightweight, connectionless protocol. Learn about its simplicity and how it differs from TCP in terms of reliability.
+
+## 3.2 Features
+
+Explore the characteristics of UDP and understand when it is suitable for applications that prioritize speed over reliability.
+
+## 3.3 Use Cases
+
+Discover scenarios where UDP shines, such as in real-time applications and multimedia streaming.
+
+# IP - Internet Protocol
+
+## 4.1 Overview
+
+IP is the foundation of the Internet. Gain insights into the role of IP in packet-switched networks and its significance in modern communication.
+
+## 4.2 IP Addressing
+
+Understand the concept of IP addressing, including IPv4 and IPv6, and how devices are identified on a network.
+
+## 4.3 Routing
+
+Explore how IP participates in routing, facilitating the delivery of data across interconnected networks.
+
+# Conclusion
+
+Summarize the key takeaways from the tutorial and emphasize the interconnected roles of TCP, UDP, and IP in facilitating seamless communication over networks.
+
+# References
+
+- [Transmission Control Protocol (TCP)](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+- [User Datagram Protocol (UDP)](https://en.wikipedia.org/wiki/User_Datagram_Protocol)
+- [Internet Protocol (IP)](https://en.wikipedia.org/wiki/Internet_Protocol)
